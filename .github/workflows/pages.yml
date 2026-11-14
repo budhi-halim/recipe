@@ -30,6 +30,11 @@ jobs:
         run: python scripts/build_sushi_images.py
       - name: Validate recipes, navigation, scaling, and image presence
         run: npm test
+      - name: Smoke-test desktop/mobile nested Sushi catalogue
+        run: |
+          npm install --no-save playwright-core
+          python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/recipe-http.log 2>&1 &
+          node tests/browser-smoke.mjs
       - name: Store generated photographs
         run: |
           git add assets/responsive/sushi-*.webp
