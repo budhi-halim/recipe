@@ -1,0 +1,105 @@
+{
+  "slug": "sushi-miso-glazed-salmon-uramaki",
+  "number": "07",
+  "title": "Miso-Glazed Salmon Uramaki",
+  "category": "Sushi",
+  "photo": 7,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "10–20 min",
+  "description": "Fully cooked salmon with white miso, mirin and honey, softened by avocado.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "avocado",
+      "name": "Ripe avocado",
+      "amount": 160,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 32,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 32,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 12,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "uramaki",
+    "fillings": [
+      "salmon",
+      "avocado"
+    ]
+  },
+  "steps": [
+    [
+      "Make the glaze",
+      "Mix white miso, mirin and honey. Simmer gently for a minute or two to combine and reduce the mirin."
+    ],
+    [
+      "Cook salmon",
+      "Pat salmon dry and cook through over medium heat. Brush with the glaze near the end, turning gently; avoid charring the miso. Cut into strips."
+    ],
+    [
+      "Build inside-out rolls",
+      "Cover a bamboo mat in food-safe wrap. Spread rice on a half-sheet of nori, sprinkle sesame on the rice, flip it rice-side-down, then arrange cooked salmon and avocado across the nori."
+    ],
+    [
+      "Roll and portion",
+      "Roll firmly, shape evenly and cut into eight pieces with a clean, damp knife."
+    ]
+  ],
+  "notes": [
+    "Miso is naturally salty; taste the glaze before adding any soy sauce.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

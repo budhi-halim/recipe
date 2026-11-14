@@ -1,0 +1,79 @@
+{
+  "slug": "sushi-salmon-oshizushi",
+  "number": "39",
+  "title": "Raw Salmon Oshizushi (Pressed Sushi)",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "pressed",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Rectangular, lightly compressed sushi rice covered with thin sashimi-style salmon.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 720,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 440,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Lemon or lime juice",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Line mold",
+      "Line a small clean rectangular container or oshizushi mold with food-safe wrap, leaving overhang."
+    ],
+    [
+      "Layer",
+      "Place overlapping chilled raw salmon slices across the bottom, add prepared rice evenly, and lay nori across the back."
+    ],
+    [
+      "Press",
+      "Cover and press lightly using a flat surface to keep grains intact. Chill briefly 5–10 minutes to aid cutting."
+    ],
+    [
+      "Slice and serve",
+      "Invert onto a cutting board, unwrap and divide into eight rectangles with a damp knife. Sprinkle with sesame and optional lemon."
+    ]
+  ],
+  "notes": [
+    "Press without mashing the rice. Use salmon suitable for raw consumption.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

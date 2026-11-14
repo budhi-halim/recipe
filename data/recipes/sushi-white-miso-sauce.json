@@ -1,0 +1,83 @@
+{
+  "slug": "sushi-white-miso-sauce",
+  "number": "40",
+  "title": "White Miso Sushi Sauce",
+  "category": "Sushi Essentials",
+  "collection": "Sushi",
+  "sushiType": "essential",
+  "servings": 6,
+  "prep": "5 min",
+  "cook": "2–3 min",
+  "description": "A miso-forward, pourable dipping and brushing sauce for sushi. No honey and no added sugar.",
+  "groups": [
+    "White miso sauce"
+  ],
+  "ingredients": [
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 25,
+      "unit": "g",
+      "group": "White miso sauce"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 18,
+      "unit": "ml",
+      "group": "White miso sauce"
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "amount": 12,
+      "unit": "ml",
+      "group": "White miso sauce"
+    },
+    {
+      "id": "rice_vinegar",
+      "name": "Unseasoned rice vinegar",
+      "amount": 5,
+      "unit": "ml",
+      "group": "White miso sauce"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Toasted sesame oil",
+      "amount": 1,
+      "unit": "ml",
+      "group": "White miso sauce",
+      "optional": true
+    }
+  ],
+  "rounding": {
+    "water": {
+      "step": 1,
+      "minimum": 1
+    }
+  },
+  "steps": [
+    [
+      "Warm mirin and water",
+      "Simmer mirin and water gently for 2–3 minutes to mellow the alcohol; top up evaporated water if necessary."
+    ],
+    [
+      "Dissolve miso",
+      "Remove from heat, cool until lukewarm, and whisk in white miso until smooth."
+    ],
+    [
+      "Balance",
+      "Whisk in unseasoned rice vinegar and optional sesame oil. Thin with 2–3 ml water at a time if needed."
+    ],
+    [
+      "Cool and serve",
+      "Refrigerate until cool. Use as a small dipping sauce, or brush approximately 2 g onto individual salmon nigiri pieces."
+    ]
+  ],
+  "notes": [
+    "No honey and no additional sugar. The white miso and mirin contribute gentle sweetness.",
+    "This is a separate reusable sushi sauce, not a miso glaze for cooking salmon.",
+    "Keep refrigerated and serve raw fish separately from stored sauce.",
+    "White miso salinity varies by brand."
+  ]
+}

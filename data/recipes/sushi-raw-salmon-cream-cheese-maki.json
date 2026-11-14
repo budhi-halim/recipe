@@ -1,0 +1,86 @@
+{
+  "slug": "sushi-raw-salmon-cream-cheese-maki",
+  "number": "35",
+  "title": "Raw Salmon Cream Cheese Maki",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "maki",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Raw salmon, chilled cream cheese and crisp cucumber wrapped with rice and nori.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cream_cheese",
+      "name": "Cream cheese",
+      "amount": 120,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Lemon or lime juice",
+      "amount": 12,
+      "unit": "ml",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Prepare",
+      "Cut chilled raw-consumption salmon, cream cheese and cucumber into long strips."
+    ],
+    [
+      "Layer",
+      "Spread prepared rice across nori, leaving the far border clear. Align salmon, cream cheese and cucumber lengthwise."
+    ],
+    [
+      "Add optional lemon",
+      "If desired, apply just a few drops of lemon to the salmon."
+    ],
+    [
+      "Roll and slice",
+      "Roll firmly and cut into eight slices, wiping the knife to avoid smearing the cream cheese."
+    ]
+  ],
+  "notes": [
+    "Unlike the existing Salmon Cream Cheese Roll, this version uses raw salmon.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

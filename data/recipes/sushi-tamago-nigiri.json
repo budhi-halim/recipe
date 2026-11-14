@@ -1,0 +1,90 @@
+{
+  "slug": "sushi-tamago-nigiri",
+  "number": "26",
+  "title": "Tamago Nigiri",
+  "category": "Sushi",
+  "photo": 26,
+  "servings": 6,
+  "prep": "20 min",
+  "cook": "10–20 min",
+  "description": "Soft layered Japanese omelet over lightly formed rice, secured with nori.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "amount": 8,
+      "unit": "piece",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sugar",
+      "name": "White sugar",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 1,
+      "unit": "piece",
+      "group": "Filling and finish",
+      "note": "For narrow nori bands"
+    }
+  ],
+  "visual": {
+    "form": "nigiri",
+    "fillings": [
+      "eggs"
+    ]
+  },
+  "steps": [
+    [
+      "Make tamago",
+      "Whisk eggs, mirin, soy sauce and sugar. Cook gradually in folded layers over medium-low heat until fully set."
+    ],
+    [
+      "Portion egg",
+      "Cool briefly and cut into approximately 24 rectangular pieces."
+    ],
+    [
+      "Shape rice",
+      "Form 24 rice ovals, using roughly 25 g rice each."
+    ],
+    [
+      "Assemble",
+      "Place omelet over each oval and wrap a slender strip of nori around the center to secure."
+    ]
+  ],
+  "notes": [
+    "The nori is used only as narrow securing bands, not full roll wrappers.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}

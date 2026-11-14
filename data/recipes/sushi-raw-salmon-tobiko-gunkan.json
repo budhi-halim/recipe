@@ -1,0 +1,85 @@
+{
+  "slug": "sushi-raw-salmon-tobiko-gunkan",
+  "number": "34",
+  "title": "Raw Salmon Tobiko Gunkan",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "gunkan",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Nori boats filled with diced raw salmon, Japanese mayonnaise, scallions and tobiko.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 60,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "tobiko",
+      "name": "Tobiko or masago",
+      "amount": 48,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "steps": [
+    [
+      "Dice salmon",
+      "Dice chilled raw-consumption salmon into small cubes, approximately 5 mm."
+    ],
+    [
+      "Mix filling",
+      "Gently fold salmon with Kewpie and finely sliced scallions; keep chilled."
+    ],
+    [
+      "Build boats",
+      "Form six rice ovals of about 25 g each and wrap with nori strips rising above the top."
+    ],
+    [
+      "Add topping",
+      "Fill with salmon mixture and top each with about 2 g tobiko. Serve immediately."
+    ]
+  ],
+  "notes": [
+    "Prepare and handle the raw topping under refrigeration.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

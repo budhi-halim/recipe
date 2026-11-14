@@ -1,0 +1,71 @@
+{
+  "slug": "sushi-salmon-miso-minimalist-maki",
+  "number": "31",
+  "title": "Minimalist Salmon Miso Maki",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "maki",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Only nori, sushi rice and raw or cooked salmon, with a separate honey-free white miso dipping sauce.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 480,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 3,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 300,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "prepared_miso_sushi_sauce",
+      "name": "Prepared white miso sushi sauce",
+      "amount": 60,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "steps": [
+    [
+      "Prepare salmon",
+      "For raw sushi, use chilled salmon handled for raw consumption. Slice into two long strips of approximately 50 g each. For the cooked alternative, cook the salmon through and cool before assembly."
+    ],
+    [
+      "Layer rice",
+      "Cut a full nori sheet in half. Spread 80 g prepared rice on each half, keeping the far 1–1.5 cm uncovered."
+    ],
+    [
+      "Roll",
+      "Place one 50 g salmon strip along the lower third of each nori half. Roll tightly without mashing, using the bare strip to seal."
+    ],
+    [
+      "Slice and dip",
+      "Cut each small roll into six pieces and serve 10 g chilled white miso sushi sauce per roll in a separate bowl."
+    ]
+  ],
+  "notes": [
+    "The sauce is a dip, not a miso glaze cooked onto salmon. No other filling or garnish is required.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

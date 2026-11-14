@@ -1,0 +1,99 @@
+{
+  "slug": "sushi-soy-mirin-zuke-salmon-maki",
+  "number": "37",
+  "title": "Soy–Mirin Zuke Salmon Maki",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "maki",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "2–10 min",
+  "description": "Short-marinated raw salmon in a chilled soy-mirin sauce, rolled with scallion and sesame.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Soy sauce",
+      "amount": 48,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 32,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "amount": 32,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 12,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "steps": [
+    [
+      "Prepare marinade",
+      "Simmer mirin and water gently for 2–3 minutes, then cool completely and mix with soy sauce."
+    ],
+    [
+      "Marinate under refrigeration",
+      "Cut raw-consumption salmon into strips and marinate in the chilled soy-mirin mixture for 5–10 minutes; drain and pat dry."
+    ],
+    [
+      "Roll",
+      "Spread prepared rice on nori, position salmon and sliced scallions across the lower third and roll firmly."
+    ],
+    [
+      "Finish",
+      "Cut into eight slices and garnish with sesame seeds. Serve promptly."
+    ]
+  ],
+  "notes": [
+    "Marinating seasons raw salmon but does not make otherwise unsuitable raw fish safe.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

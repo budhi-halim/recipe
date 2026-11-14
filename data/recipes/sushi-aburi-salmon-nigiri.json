@@ -1,0 +1,79 @@
+{
+  "slug": "sushi-aburi-salmon-nigiri",
+  "number": "38",
+  "title": "Aburi Salmon Nigiri",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "nigiri",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Surface-torched salmon nigiri, with a raw-centered or fully cooked option.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 32,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "tobiko",
+      "name": "Tobiko or masago",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Shape rice",
+      "Prepare six lightly packed seasoned rice ovals of about 25 g."
+    ],
+    [
+      "Place salmon",
+      "Drape a nigiri-sized salmon slice over each oval."
+    ],
+    [
+      "Sear",
+      "Briefly torch the exposed salmon surface. If avoiding a raw center, pan-sear the salmon fully before placing it on rice."
+    ],
+    [
+      "Finish",
+      "Add tiny dots of Kewpie, a sparing brush of soy sauce and optional tobiko."
+    ]
+  ],
+  "notes": [
+    "Aburi torching may leave the center raw, so use salmon appropriately handled for raw consumption.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "sushi-salmon-miso-nigiri",
+  "number": "32",
+  "title": "Raw Salmon Miso Nigiri",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "nigiri",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Sashimi-style raw salmon on vinegared rice, brushed lightly with honey-free white miso sauce.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "prepared_miso_sushi_sauce",
+      "name": "Prepared white miso sushi sauce",
+      "amount": 48,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions",
+      "amount": 12,
+      "unit": "g",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Slice salmon",
+      "Slice chilled raw-consumption salmon against the grain into six uniform pieces about 4–5 mm thick."
+    ],
+    [
+      "Shape rice",
+      "With damp hands, form six lightly packed rice ovals, approximately 25 g each."
+    ],
+    [
+      "Top",
+      "Drape one salmon slice over each oval and shape without squeezing tightly."
+    ],
+    [
+      "Brush and finish",
+      "Brush about 2 g chilled white miso sushi sauce over each piece; optionally finish with a little minced scallion."
+    ]
+  ],
+  "notes": [
+    "Use the sauce lightly, so the salmon remains the dominant flavor.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

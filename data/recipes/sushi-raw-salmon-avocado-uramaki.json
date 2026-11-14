@@ -1,0 +1,93 @@
+{
+  "slug": "sushi-raw-salmon-avocado-uramaki",
+  "number": "33",
+  "title": "Raw Salmon Avocado Uramaki",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "uramaki",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "A rice-outside roll with silky raw salmon, creamy avocado, cucumber and sesame.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "amount": 180,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 40,
+      "unit": "g",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Slice and dry",
+      "Cut salmon into slender sashimi-safe strips, then cut avocado and cucumber into similar batons. Pat cucumber dry."
+    ],
+    [
+      "Invert rice and nori",
+      "Cover a sushi mat with food-safe wrap. Spread seasoned rice across half a nori sheet, scatter sesame and flip rice-side-down."
+    ],
+    [
+      "Add filling",
+      "Arrange salmon, avocado and cucumber over exposed nori; add a small amount of Kewpie if desired."
+    ],
+    [
+      "Roll and cut",
+      "Roll tightly, press to shape, and cut into eight pieces with a damp knife."
+    ]
+  ],
+  "notes": [
+    "Keep raw salmon refrigerated until the moment of assembly.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

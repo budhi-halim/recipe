@@ -1,0 +1,101 @@
+{
+  "slug": "sushi-thin-seared-salmon-avocado-roll",
+  "number": "08",
+  "title": "Thin-Seared Salmon Avocado Roll",
+  "category": "Sushi",
+  "photo": 8,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "10–20 min",
+  "description": "Thin salmon slices cooked through and draped over a creamy avocado-cucumber roll.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "avocado",
+      "name": "Ripe avocado",
+      "amount": 160,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 48,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "tobiko",
+      "name": "Tobiko or masago",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "visual": {
+    "form": "uramaki",
+    "fillings": [
+      "salmon",
+      "avocado",
+      "cucumber",
+      "tobiko"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare fillings",
+      "Slice salmon against the grain into 2–3 mm slices. Cut avocado and cucumber into slender batons; keep chilled until needed."
+    ],
+    [
+      "Cook thin salmon",
+      "In a hot lightly oiled nonstick pan, cook salmon slices briefly on both sides until fully opaque. Work in small batches and transfer to a clean plate; do not leave raw centers."
+    ],
+    [
+      "Make the inner roll",
+      "Spread rice onto half a nori sheet and flip onto a wrapped bamboo mat. Place avocado and cucumber on the nori side and roll tightly."
+    ],
+    [
+      "Cover and finish",
+      "Overlap fully cooked salmon slices across the exterior; press gently through wrap to secure, then cut eight pieces. Add Kewpie and optional tobiko sparingly."
+    ]
+  ],
+  "notes": [
+    "The thin-searing technique is aburi-inspired, but salmon is cooked through rather than raw beneath the surface.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

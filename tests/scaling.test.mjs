@@ -3,7 +3,7 @@ const load=(p)=>JSON.parse(readFileSync(new URL("../"+p,import.meta.url),"utf8")
 const rules=load("data/rounding.json"),slugs=load("data/index.json").recipes;
 const get=(slug)=>load("data/recipes/"+slug+".json");
 test("approved recipes, six servings and global policies",()=>{
- assert.equal(slugs.length,4);
+ assert.equal(slugs.length,40);
  for(const slug of slugs){const r=get(slug);assert.equal(r.servings,6);assert.ok(r.steps.length>=3);assert.ok(r.ingredients.length>=4);
   const ids=new Set();
   for(const i of r.ingredients){assert.ok(i.amount>0);assert.ok(!ids.has(i.id));ids.add(i.id);

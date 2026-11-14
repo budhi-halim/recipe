@@ -1,0 +1,92 @@
+{
+  "slug": "sushi-salmon-cream-cheese-roll",
+  "number": "09",
+  "title": "Salmon Cream Cheese Roll",
+  "category": "Sushi",
+  "photo": 9,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "10–20 min",
+  "description": "Salmon, tangy cream cheese and cucumber in a simple nori-outside roll.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 320,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cream_cheese",
+      "name": "Cream cheese",
+      "amount": 140,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Fresh lemon or lime juice",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "salmon",
+      "cream_cheese",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Cook salmon",
+      "Cook salmon until done, then let cool slightly and break into long, substantial flakes. Sprinkle with lemon juice."
+    ],
+    [
+      "Prepare fillings",
+      "Cut cream cheese into chilled batons and cucumber into dry, narrow strips. Keep the cheese cold enough to handle."
+    ],
+    [
+      "Roll",
+      "Spread prepared rice over the nori, leaving the far border clear. Line up salmon, cream cheese and cucumber without overfilling; roll tightly."
+    ],
+    [
+      "Slice",
+      "Cut into eight pieces with a damp knife, cleaning the blade between cuts to avoid dragging cream cheese."
+    ]
+  ],
+  "notes": [
+    "Use lemon sparingly so it complements rather than dominates the cream cheese.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "sushi-salmon-sesame-temaki",
+  "number": "36",
+  "title": "Raw Salmon Sesame Temaki",
+  "category": "Sushi",
+  "collection": "Sushi",
+  "sushiType": "temaki",
+  "servings": 6,
+  "prep": "20–30 min",
+  "cook": "0–10 min",
+  "description": "Hand-rolled cones of nori with raw salmon, avocado, cucumber and sesame.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon intended for raw consumption, unless cooked",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "amount": 140,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Sesame oil",
+      "amount": 12,
+      "unit": "ml",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    [
+      "Prepare",
+      "Slice salmon suitable for raw consumption, avocado and cucumber into slim batons."
+    ],
+    [
+      "Cut nori",
+      "Halve the sheet and distribute approximately 75 g rice diagonally on each half."
+    ],
+    [
+      "Fill",
+      "Lay salmon, avocado and cucumber over the rice, sprinkle sesame, and optionally add a few drops of sesame oil."
+    ],
+    [
+      "Form cones",
+      "Fold the nori into two cones and eat promptly while the seaweed is crisp."
+    ]
+  ],
+  "notes": [
+    "Toasted sesame oil is optional; use sparingly so it does not overpower the fish.",
+    "Baseline makes approximately six light servings. Ingredient quantities can be scaled independently.",
+    "Prepare and season sushi rice using its separate recipe.",
+    "For uncooked salmon, use a reputable raw-consumption supplier, keep chilled and assemble promptly."
+  ]
+}

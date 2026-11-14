@@ -1,0 +1,91 @@
+{
+  "slug": "sushi-creamy-kani-gunkan",
+  "number": "19",
+  "title": "Creamy Kani Gunkan",
+  "category": "Sushi",
+  "photo": 19,
+  "servings": 6,
+  "prep": "20 min",
+  "cook": "0–5 min",
+  "description": "Nori boats filled with shredded crab stick, scallions, mayo and tobiko.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "crab_sticks",
+      "name": "Crab sticks (kani)",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions, finely sliced",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "tobiko",
+      "name": "Tobiko or masago",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish",
+      "optional": true
+    }
+  ],
+  "visual": {
+    "form": "gunkan",
+    "fillings": [
+      "crab_sticks",
+      "tobiko"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare kani",
+      "Check crab sticks are ready to eat according to their packaging. Shred and combine with Kewpie and thinly sliced scallions."
+    ],
+    [
+      "Shape rice",
+      "Shape 24 small rice ovals and cut nori strips tall enough to rise above the rice."
+    ],
+    [
+      "Make cups",
+      "Wrap rice ovals in nori, sealing with a few rice grains."
+    ],
+    [
+      "Finish",
+      "Spoon kani filling into each gunkan and scatter optional tobiko over the top."
+    ]
+  ],
+  "notes": [
+    "Assemble just before eating so the nori remains textured.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}
