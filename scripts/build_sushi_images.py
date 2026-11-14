@@ -20,7 +20,6 @@ for i,slug in enumerate(positions['slugs']):
    tile=image.crop((column*w,0,(column+1)*w,h))
   for target_width in WIDTHS:
    target=dest/f'{slug}-{target_width}.webp'
-   if target.exists():continue
    height=round(tile.height*target_width/tile.width)
    rendered=tile if target_width==tile.width else tile.resize((target_width,height),Image.Resampling.LANCZOS)
    rendered.save(target,format='WEBP',quality=36 if target_width==24 else 80,method=6)
