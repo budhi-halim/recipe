@@ -22,14 +22,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate scaling and recipes
-        run: |
-          npm test
-          node scripts/validate_recipes.mjs
       - name: Install image dependency
         run: python -m pip install Pillow
       - name: Build individual sushi artwork and five WebP sizes
         run: python scripts/build_sushi_images.py
+      - name: Validate scaling and recipes
+        run: |
+          npm test
+          node scripts/validate_recipes.mjs
       - name: Commit generated image tiers
         run: |
           git add assets/responsive/sushi-*.webp
