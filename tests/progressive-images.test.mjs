@@ -20,3 +20,5 @@ test("all recipes have five individual image tiers",()=>{
   assert.ok(existsSync(new URL("../assets/responsive/"+slug+"-"+width+".webp",import.meta.url)),slug+" "+width);
  }
 });
+
+test("botanical cover has all progressive tiers",()=>{ for(const width of WIDTHS){ assert.ok(existsSync(new URL("../assets/responsive/botanical-cover-"+width+".webp",import.meta.url)),"missing cover tier "+width); } });
