@@ -1,0 +1,106 @@
+{
+  "slug": "sushi-honey-lemon-salmon-temaki",
+  "number": "11",
+  "title": "Honey-Lemon Salmon Temaki",
+  "category": "Sushi",
+  "photo": 11,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "10–20 min",
+  "description": "Hand rolls with lemon-honey glazed salmon, avocado and crisp lettuce.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "amount": 40,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Fresh lemon or lime juice",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce, washed and dried",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "avocado",
+      "name": "Ripe avocado",
+      "amount": 120,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "temaki",
+    "fillings": [
+      "salmon",
+      "lettuce",
+      "avocado"
+    ]
+  },
+  "steps": [
+    [
+      "Glaze salmon",
+      "Mix honey, lemon juice and soy sauce. Cook salmon through in a pan, then toss with the glaze and reduce briefly until lightly sticky; cool slightly and flake."
+    ],
+    [
+      "Prepare cones",
+      "Cut each nori sheet in half. Put a small bed of sushi rice on one half of each piece; keep the other corner dry for sealing."
+    ],
+    [
+      "Fill and roll",
+      "Add dry lettuce, avocado and salmon. Roll into a cone so the point holds the ingredients securely."
+    ],
+    [
+      "Serve",
+      "Hand rolls are best eaten immediately, before the nori loses its crispness."
+    ]
+  ],
+  "notes": [
+    "This recipe makes approximately eight medium hand rolls for six snack-sized servings.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

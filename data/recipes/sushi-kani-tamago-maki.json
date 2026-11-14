@@ -1,0 +1,98 @@
+{
+  "slug": "sushi-kani-tamago-maki",
+  "number": "21",
+  "title": "Kani Tamago Maki",
+  "category": "Sushi",
+  "photo": 21,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "10–20 min",
+  "description": "A mild, colorful nori roll with crab stick, omelet and cucumber.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "crab_sticks",
+      "name": "Crab sticks (kani)",
+      "amount": 280,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 40,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "crab_sticks",
+      "eggs",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Cook omelet",
+      "Beat eggs with mirin and cook until set. Cool, then cut into long strips."
+    ],
+    [
+      "Prepare kani",
+      "Drain ready-to-eat crab sticks and cut into manageable strips. Cut cucumber into thin batons."
+    ],
+    [
+      "Assemble",
+      "Spread rice onto nori, layer crab, tamago, cucumber and a light drizzle of Kewpie lengthwise."
+    ],
+    [
+      "Slice",
+      "Roll firmly and divide into eight pieces."
+    ]
+  ],
+  "notes": [
+    "Fully cool the egg before rolling to avoid steam softening nori.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}

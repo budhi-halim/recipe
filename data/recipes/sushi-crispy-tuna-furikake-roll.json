@@ -1,0 +1,105 @@
+{
+  "slug": "sushi-crispy-tuna-furikake-roll",
+  "number": "24",
+  "title": "Crispy Tuna Furikake Roll",
+  "category": "Sushi",
+  "photo": 24,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "15–20 min",
+  "description": "Creamy tuna and cucumber rolls finished with toasted panko and furikake.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "tuna_canned",
+      "name": "Canned tuna, well drained",
+      "amount": 320,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 60,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "panko",
+      "name": "Panko breadcrumbs",
+      "amount": 60,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "furikake",
+      "name": "Furikake seasoning",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Toasted sesame oil",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "tuna_canned",
+      "cucumber",
+      "panko"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare topping",
+      "Toast panko in sesame oil over low to medium heat until golden, then cool completely."
+    ],
+    [
+      "Mix tuna",
+      "Drain tuna thoroughly, fold with Kewpie and set aside."
+    ],
+    [
+      "Roll",
+      "Spread rice onto nori, add cucumber and tuna mayo, roll firmly and cut into eight pieces."
+    ],
+    [
+      "Finish last",
+      "Sprinkle toasted panko and furikake over the sliced pieces just before serving."
+    ]
+  ],
+  "notes": [
+    "Add crunchy toppings immediately before serving so they remain crisp.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}

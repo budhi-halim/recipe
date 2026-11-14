@@ -1,0 +1,91 @@
+{
+  "slug": "sushi-salmon-mayo-tobiko-gunkan",
+  "number": "12",
+  "title": "Salmon Mayo Tobiko Gunkan",
+  "category": "Sushi",
+  "photo": 12,
+  "servings": 6,
+  "prep": "20 min",
+  "cook": "10–20 min",
+  "description": "Compact nori cups filled with fully cooked salmon, mayonnaise and roe.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "tobiko",
+      "name": "Tobiko or masago",
+      "amount": 40,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions, finely sliced",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "gunkan",
+    "fillings": [
+      "salmon",
+      "tobiko"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare topping",
+      "Cook salmon through, cool promptly and flake finely. Mix with Kewpie and scallions, leaving some salmon texture."
+    ],
+    [
+      "Shape bases",
+      "Using slightly damp hands, form compact oval rice portions about 25 g each. Cut nori into strips slightly taller than the rice."
+    ],
+    [
+      "Make gunkan",
+      "Wrap one nori strip around each rice oval, sealing with a damp rice grain to form a raised rim."
+    ],
+    [
+      "Top and serve",
+      "Spoon on the salmon mixture and finish with tobiko. Assemble close to serving time."
+    ]
+  ],
+  "notes": [
+    "Tobiko or masago can be omitted, although the finished flavor and texture will differ.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

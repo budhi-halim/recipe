@@ -1,0 +1,111 @@
+{
+  "slug": "sushi-shrimp-tamago-futomaki",
+  "number": "17",
+  "title": "Shrimp & Tamago Futomaki",
+  "category": "Sushi",
+  "photo": 17,
+  "servings": 6,
+  "prep": "25 min",
+  "cook": "10–20 min",
+  "description": "Large rolls combining cooked shrimp, omelet, carrot and cucumber.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "shrimp",
+      "name": "Peeled, deveined shrimp",
+      "amount": 300,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "carrots",
+      "name": "Carrot, julienned",
+      "amount": 80,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "futomaki",
+    "fillings": [
+      "shrimp",
+      "eggs",
+      "cucumber",
+      "carrots"
+    ]
+  },
+  "steps": [
+    [
+      "Make tamago",
+      "Beat eggs with mirin and soy sauce. Cook gently in thin folded layers or as a thick omelet until fully set, then slice into strips."
+    ],
+    [
+      "Prepare vegetables",
+      "Blanch carrot matchsticks briefly and cool. Cut cucumber into even, dry batons."
+    ],
+    [
+      "Cook shrimp",
+      "Cook shrimp until opaque throughout; drain thoroughly and cool."
+    ],
+    [
+      "Roll futomaki",
+      "Spread rice over a full nori sheet, keeping a clear band at the edge. Arrange shrimp, egg, carrot and cucumber lengthwise; roll firmly."
+    ],
+    [
+      "Cut",
+      "Slice each large roll into eight thick pieces with a clean wet knife."
+    ]
+  ],
+  "notes": [
+    "Dry all fillings well to avoid soggy rice.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Cook shrimp thoroughly until the flesh is opaque throughout."
+  ]
+}

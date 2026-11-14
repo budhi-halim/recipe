@@ -1,0 +1,97 @@
+{
+  "slug": "sushi-avocado-cucumber-sesame-uramaki",
+  "number": "29",
+  "title": "Avocado Cucumber Sesame Uramaki",
+  "category": "Sushi",
+  "photo": 29,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "0–5 min",
+  "description": "Fresh cucumber and creamy avocado with both white and black sesame.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "avocado",
+      "name": "Ripe avocado",
+      "amount": 260,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 140,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_white",
+      "name": "White sesame seeds",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "sesame_seeds_black",
+      "name": "Black sesame seeds",
+      "amount": 12,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "lemon_juice",
+      "name": "Fresh lemon or lime juice",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "uramaki",
+    "fillings": [
+      "avocado",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare vegetables",
+      "Cut avocado and cucumber into neat batons. Brush avocado very lightly with lemon juice to slow browning."
+    ],
+    [
+      "Build inside-out base",
+      "Spread rice over a half-sheet of nori and scatter white and black sesame across the rice."
+    ],
+    [
+      "Fill and roll",
+      "Flip rice-side-down on a wrapped mat; place avocado and cucumber on nori, then roll firmly."
+    ],
+    [
+      "Cut",
+      "Slice each roll into eight pieces and serve promptly."
+    ]
+  ],
+  "notes": [
+    "Dry cucumber thoroughly to keep the rice from becoming wet.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}

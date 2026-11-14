@@ -1,0 +1,96 @@
+{
+  "slug": "sushi-miso-tuna-gunkan",
+  "number": "23",
+  "title": "Miso Tuna Gunkan",
+  "category": "Sushi",
+  "photo": 23,
+  "servings": 6,
+  "prep": "20 min",
+  "cook": "0–5 min",
+  "description": "A compact tuna-mayo topping enriched with a small amount of white miso.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 600,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "tuna_canned",
+      "name": "Canned tuna, well drained",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 72,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions, finely sliced",
+      "amount": 20,
+      "unit": "g",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "gunkan",
+    "fillings": [
+      "tuna_canned"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare miso",
+      "Simmer mirin briefly and dissolve the white miso into it. Cool completely."
+    ],
+    [
+      "Mix filling",
+      "Combine the miso mixture with drained tuna and Kewpie. Fold through sliced scallions."
+    ],
+    [
+      "Shape boats",
+      "Form rice into approximately 24 small ovals and wrap each with a nori strip taller than the rice."
+    ],
+    [
+      "Top",
+      "Spoon the tuna mixture into each nori cup just before serving."
+    ]
+  ],
+  "notes": [
+    "Different white miso brands have different salt levels; taste before adding anything salty.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}

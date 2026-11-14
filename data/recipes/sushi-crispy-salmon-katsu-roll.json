@@ -1,0 +1,108 @@
+{
+  "slug": "sushi-crispy-salmon-katsu-roll",
+  "number": "10",
+  "title": "Crispy Salmon Katsu Roll",
+  "category": "Sushi",
+  "photo": 10,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "15–20 min",
+  "description": "Panko-crusted cooked salmon with cucumber and Japanese mayonnaise.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "salmon",
+      "name": "Skinless salmon",
+      "amount": 360,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "panko",
+      "name": "Panko breadcrumbs",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 48,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "neutral_oil",
+      "name": "Neutral cooking oil",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Filling and finish",
+      "note": "For shallow-frying; not all oil is absorbed"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "salmon",
+      "eggs",
+      "panko",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare crust",
+      "Cut salmon into long thick strips and pat dry. Coat each in beaten egg and press on panko until evenly covered."
+    ],
+    [
+      "Fry salmon",
+      "Heat cooking oil in a shallow pan and fry the strips, turning until evenly golden and cooked through. Drain thoroughly on a rack; do not seal steaming-hot fish inside nori."
+    ],
+    [
+      "Build rolls",
+      "Spread seasoned rice over a nori sheet. Lay crispy salmon alongside cucumber and a restrained line of Kewpie; roll tightly."
+    ],
+    [
+      "Serve crisp",
+      "Cut into eight pieces and serve promptly while the coating is still crunchy."
+    ]
+  ],
+  "notes": [
+    "A little mayonnaise is sufficient; too much softens the panko.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Salmon is fully cooked, including the very thin seared-slice variations; for thicker pieces, 63°C at the center is a conservative target."
+  ]
+}

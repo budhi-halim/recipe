@@ -1,0 +1,108 @@
+{
+  "slug": "sushi-ebi-furai-roll",
+  "number": "14",
+  "title": "Ebi Furai Roll",
+  "category": "Sushi",
+  "photo": 14,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "15–20 min",
+  "description": "Crispy panko-fried shrimp with cucumber and a restrained Kewpie filling.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "shrimp",
+      "name": "Peeled, deveined shrimp",
+      "amount": 400,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "amount": 2,
+      "unit": "piece",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "panko",
+      "name": "Panko breadcrumbs",
+      "amount": 120,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 60,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "neutral_oil",
+      "name": "Neutral cooking oil",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Filling and finish",
+      "note": "For shallow-frying; not all oil is absorbed"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "shrimp",
+      "eggs",
+      "panko",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Prepare shrimp",
+      "Peel, devein and pat dry. Make shallow cuts along the underside to keep them straighter when frying."
+    ],
+    [
+      "Crumb and cook",
+      "Dip in beaten egg, coat generously with panko and shallow-fry until the crust is golden and shrimp are opaque throughout. Drain on a rack."
+    ],
+    [
+      "Assemble",
+      "Spread seasoned sushi rice over nori. Set two or more fried shrimp lengthwise with cucumber batons and a thin stripe of Kewpie."
+    ],
+    [
+      "Cut and serve",
+      "Roll snugly, slice into eight pieces and serve while the panko is still crisp."
+    ]
+  ],
+  "notes": [
+    "Keep the shrimp as whole as possible for attractive cross-sections.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight.",
+    "Cook shrimp thoroughly until the flesh is opaque throughout."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "sushi-tuna-mayo-scallion-maki",
+  "number": "22",
+  "title": "Tuna Mayo Scallion Maki",
+  "category": "Sushi",
+  "photo": 22,
+  "servings": 6,
+  "prep": "20–25 min",
+  "cook": "0–5 min",
+  "description": "Drained canned tuna, Japanese mayonnaise and scallions with crisp cucumber.",
+  "groups": [
+    "Sushi base",
+    "Filling and finish"
+  ],
+  "ingredients": [
+    {
+      "id": "prepared_sushi_rice",
+      "name": "Prepared, seasoned sushi rice",
+      "amount": 640,
+      "unit": "g",
+      "group": "Sushi base",
+      "note": "Use the separate Sushi Rice recipe"
+    },
+    {
+      "id": "nori_sheets",
+      "name": "Nori seaweed sheets",
+      "amount": 4,
+      "unit": "piece",
+      "group": "Sushi base"
+    },
+    {
+      "id": "tuna_canned",
+      "name": "Canned tuna, well drained",
+      "amount": 320,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "mayo_kewpie",
+      "name": "Japanese mayonnaise (Kewpie)",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, cut into thin batons",
+      "amount": 100,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "green_onions",
+      "name": "Scallions, finely sliced",
+      "amount": 32,
+      "unit": "g",
+      "group": "Filling and finish"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 12,
+      "unit": "ml",
+      "group": "Filling and finish"
+    }
+  ],
+  "visual": {
+    "form": "maki",
+    "fillings": [
+      "tuna_canned",
+      "cucumber"
+    ]
+  },
+  "steps": [
+    [
+      "Drain tuna",
+      "Drain canned tuna very thoroughly and break apart with a fork."
+    ],
+    [
+      "Season",
+      "Fold tuna with Kewpie, scallions and soy sauce. The mixture should be creamy but not runny."
+    ],
+    [
+      "Roll",
+      "Spread rice over nori, align cucumber and a compact strip of tuna filling near the lower third, then roll firmly."
+    ],
+    [
+      "Cut",
+      "Divide each roll into eight pieces and wipe the knife frequently."
+    ]
+  ],
+  "notes": [
+    "Avoid adding extra liquid from the tuna can to the filling.",
+    "This baseline yields approximately four rolls (or the equivalent nigiri, gunkan or hand-roll assortment), about six light servings.",
+    "Sushi rice is prepared and seasoned separately; the rice quantity here is its ready-to-use weight."
+  ]
+}
