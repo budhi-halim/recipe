@@ -45,7 +45,7 @@ try{
  assert.equal(await mobile.locator('#sushi-cards .recipe-card').count(),34,'Mobile catalogue should show all sushi recipes');
  await mobile.locator('#sushi-cards .recipe-card').first().click();
  assert.ok(mobile.url().includes('#/recipe/'));
- assert.ok(await mobile.locator('.breadcrumbs a[href="#/sushi"]').count());
+ await mobile.locator('.breadcrumbs a[href="#/sushi"]').waitFor({state:'visible',timeout:15000});
  assert.deepEqual(errors,[],'No browser JavaScript errors should occur');
  console.log(JSON.stringify({ok:true,total:40,mainTiles:5,sushiCards:34,essentials:2,nigiriCount,misoCount,mobile:true}));
 }finally{await browser.close();}
