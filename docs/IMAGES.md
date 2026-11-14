@@ -1,18 +1,16 @@
 # Image pipeline
 
-Each recipe uses five independent WebP sizes (24, 320, 640, 960 and 1440 px wide) in assets/responsive/. The 24 px preview appears immediately; the JavaScript loader measures displayed dimensions, DPR and viewport zoom, loads the smallest sufficient tier and decodes it before swapping. Displayed resolution never decreases.
+Each recipe image must be available at 24, 320, 640, 960 and 1440 px in assets/responsive/. The progressive loader shows the 24 px preview immediately and upgrades based on displayed size and zoom without downgrading.
 
-This pipeline is required for all future recipe imagery. Implementation: progressive-images.mjs.
+## Original photos
 
-## Generator
-
-Place original photos in assets/originals/ using recipe slugs as filenames. In PowerShell, working directory: repository root, run:
+Place originals in assets/originals/<recipe-slug>.png (or JPG/WebP). In PowerShell, working directory repository root, run:
 
     py -3 -m pip install Pillow
     py -3 scripts/build_images.py
 
-Commit all five resulting WebP files only after recipe approval. Run npm test before publishing.
+Commit all five resulting WebP files after approval.
 
-## Historical package
+## Sushi collection
 
-The earlier package could not be identified in the accessible repositories or prior conversation search. This self-contained implementation follows the requested Python generation and JavaScript zoom-responsive loading architecture.
+Each approved sushi entry has an individual deterministic illustrated image with a unique composition derived from its visual data. These are illustrations, not photographs. The source generator scripts/build_sushi_images.py uses Pillow only, without external image hosts or keys. GitHub Actions produces and commits all five responsive WebP tiers. When a photograph replaces an illustration, remove the recipe's visual metadata to stop automatic illustration regeneration.
