@@ -1,0 +1,183 @@
+{
+  "slug": "five-spice-pork-mazemen",
+  "number": "02",
+  "title": "Japanese–Chinese Five-Spice Pork Mazemen",
+  "category": "Noodles",
+  "photo": 1,
+  "servings": 6,
+  "prep": "20 min",
+  "cook": "25 min",
+  "description": "Dry ramen coated with browned minced pork, shallots, ginger, white miso and a restrained five-spice soy glaze.",
+  "origin": "Adapted from the final 400 g dried-noodle version to approximately six portions, with neatly rounded quantities.",
+  "groups": [
+    "Noodles and pork",
+    "Seasoning sauce",
+    "Optional finish"
+  ],
+  "ingredients": [
+    {
+      "id": "dried_ramen",
+      "name": "Dried ramen noodles",
+      "amount": 600,
+      "unit": "g",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "ground_pork",
+      "name": "Minced pork",
+      "amount": 650,
+      "unit": "g",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "neutral_oil",
+      "name": "Neutral cooking oil",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "shallots",
+      "name": "Shallots, sliced",
+      "amount": 75,
+      "unit": "g",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic, minced",
+      "amount": 25,
+      "unit": "g",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger, grated",
+      "amount": 18,
+      "unit": "g",
+      "group": "Noodles and pork"
+    },
+    {
+      "id": "five_spice",
+      "name": "Chinese five-spice powder",
+      "amount": 0.5,
+      "unit": "tsp",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 45,
+      "unit": "g",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 45,
+      "unit": "ml",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "dark_soy",
+      "name": "Dark soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "oyster_sauce",
+      "name": "Oyster sauce",
+      "amount": 45,
+      "unit": "g",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 45,
+      "unit": "ml",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "rice_vinegar",
+      "name": "Rice vinegar",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Seasoning sauce"
+    },
+    {
+      "id": "noodle_water",
+      "name": "Reserved noodle water",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Seasoning sauce",
+      "note": "Use gradually, as needed"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Toasted sesame oil",
+      "amount": 6,
+      "unit": "ml",
+      "group": "Optional finish",
+      "optional": true
+    },
+    {
+      "id": "fried_shallots",
+      "name": "Fried shallots",
+      "amount": 15,
+      "unit": "g",
+      "group": "Optional finish",
+      "optional": true
+    },
+    {
+      "id": "eggs",
+      "name": "Soft-boiled eggs",
+      "amount": 6,
+      "unit": "piece",
+      "group": "Optional finish",
+      "optional": true
+    }
+  ],
+  "rounding": {
+    "five_spice": {
+      "step": 0.05,
+      "minimum": 0.05
+    },
+    "noodle_water": {
+      "step": 5,
+      "minimum": 5
+    }
+  },
+  "steps": [
+    [
+      "Prepare",
+      "Mince garlic, grate ginger and slice shallots. Whisk white miso, regular soy, dark soy, oyster sauce and rice vinegar together."
+    ],
+    [
+      "Brown the pork",
+      "Heat neutral oil in a broad pan. Brown minced pork thoroughly, breaking it into small pieces. Remove it briefly if needed to avoid overcrowding."
+    ],
+    [
+      "Cook the aromatics",
+      "In the same pan, cook the shallots, garlic and ginger until fragrant. Add the five-spice powder briefly without burning it."
+    ],
+    [
+      "Reduce the mirin",
+      "Pour in mirin and simmer for 3–5 minutes to soften its alcoholic taste. Return the pork and add the mixed sauce; simmer gently for 2–3 minutes."
+    ],
+    [
+      "Cook the noodles",
+      "Boil the noodles until just firm. Reserve cooking water, then drain without rinsing."
+    ],
+    [
+      "Toss and serve",
+      "Toss noodles with the pork and sauce over low heat, adding reserved noodle water little by little until glossy. Finish with optional sesame oil, fried shallots or soft-boiled eggs."
+    ]
+  ],
+  "notes": [
+    "The five-spice should be subtle and not dominate the dish.",
+    "Reserved noodle water is an allowance, not a mandatory amount; use only what is needed for a light gloss.",
+    "This recipe is intentionally non-spicy."
+  ]
+}

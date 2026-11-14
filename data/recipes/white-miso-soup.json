@@ -1,0 +1,92 @@
+{
+  "slug": "white-miso-soup",
+  "number": "03",
+  "title": "Japanese White Miso Soup",
+  "category": "Soup",
+  "photo": 2,
+  "servings": 6,
+  "prep": "10 min",
+  "cook": "10 min",
+  "description": "A light white miso and dashi broth with tofu, wakame and green onion.",
+  "origin": "Scaled from the original two-serving preparation. Adjust miso concentration for the saltiness of the paste.",
+  "groups": [
+    "Soup"
+  ],
+  "ingredients": [
+    {
+      "id": "water",
+      "name": "Water",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Soup"
+    },
+    {
+      "id": "dashi_powder",
+      "name": "Dashi powder",
+      "amount": 7.5,
+      "unit": "g",
+      "group": "Soup",
+      "note": "Or the equivalent quantity according to the package"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 90,
+      "unit": "g",
+      "group": "Soup"
+    },
+    {
+      "id": "tofu",
+      "name": "Soft or medium tofu, cubed",
+      "amount": 300,
+      "unit": "g",
+      "group": "Soup"
+    },
+    {
+      "id": "wakame",
+      "name": "Dried wakame",
+      "amount": 6,
+      "unit": "g",
+      "group": "Soup"
+    },
+    {
+      "id": "green_onions",
+      "name": "Green onions, sliced",
+      "amount": 3,
+      "unit": "stalk",
+      "group": "Soup"
+    }
+  ],
+  "rounding": {
+    "dashi_powder": {
+      "step": 0.5,
+      "minimum": 0.5
+    }
+  },
+  "steps": [
+    [
+      "Prepare the additions",
+      "Cube tofu, prepare wakame as instructed on its package and slice green onions."
+    ],
+    [
+      "Warm the dashi",
+      "Heat the water with dashi powder to a gentle simmer; adjust dashi strength according to the product."
+    ],
+    [
+      "Heat tofu and wakame",
+      "Add tofu and wakame and simmer gently for 2–3 minutes."
+    ],
+    [
+      "Dissolve the miso",
+      "Turn off the heat. Loosen miso in a ladle with hot broth, then stir it into the pot. Do not boil once miso has been added."
+    ],
+    [
+      "Serve",
+      "Taste and adjust if needed, then finish with green onion. Serve immediately."
+    ]
+  ],
+  "notes": [
+    "Miso salinity and dashi strength vary by brand.",
+    "Do not boil after adding miso; its aroma is more delicate off the heat."
+  ]
+}

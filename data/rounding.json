@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "servings": {
+    "step": 1,
+    "minimum": 1
+  },
+  "defaults": {
+    "g": {
+      "step": 1,
+      "minimum": 1
+    },
+    "ml": {
+      "step": 1,
+      "minimum": 1
+    },
+    "tsp": {
+      "step": 0.25,
+      "minimum": 0.25
+    },
+    "piece": {
+      "step": 1,
+      "minimum": 1
+    },
+    "stalk": {
+      "step": 1,
+      "minimum": 1
+    },
+    "portion": {
+      "step": 1,
+      "minimum": 1
+    }
+  },
+  "ingredients": {
+    "chicken_wings": {
+      "step": 25,
+      "minimum": 25
+    },
+    "salt": {
+      "step": 0.5,
+      "minimum": 0.5
+    },
+    "white_miso": {
+      "step": 1,
+      "minimum": 1
+    },
+    "coriander_seed": {
+      "step": 0.1,
+      "minimum": 0.1
+    },
+    "garlic": {
+      "step": 1,
+      "minimum": 1
+    },
+    "ginger": {
+      "step": 1,
+      "minimum": 1
+    },
+    "white_pepper": {
+      "step": 0.1,
+      "minimum": 0.1
+    },
+    "lemongrass": {
+      "step": 1,
+      "minimum": 1
+    },
+    "starch": {
+      "step": 5,
+      "minimum": 5
+    },
+    "hoisin": {
+      "step": 5,
+      "minimum": 5
+    },
+    "water": {
+      "step": 25,
+      "minimum": 25
+    },
+    "sugar": {
+      "step": 1,
+      "minimum": 1
+    },
+    "sesame_oil": {
+      "step": 0.5,
+      "minimum": 0.5
+    },
+    "rice_vinegar": {
+      "step": 1,
+      "minimum": 1
+    },
+    "dried_ramen": {
+      "step": 25,
+      "minimum": 25
+    },
+    "ground_pork": {
+      "step": 25,
+      "minimum": 25
+    },
+    "neutral_oil": {
+      "step": 5,
+      "minimum": 5
+    },
+    "shallots": {
+      "step": 5,
+      "minimum": 5
+    },
+    "five_spice": {
+      "step": 0.25,
+      "minimum": 0.25
+    },
+    "soy_sauce": {
+      "step": 1,
+      "minimum": 1
+    },
+    "dark_soy": {
+      "step": 1,
+      "minimum": 1
+    },
+    "oyster_sauce": {
+      "step": 1,
+      "minimum": 1
+    },
+    "mirin": {
+      "step": 1,
+      "minimum": 1
+    },
+    "noodle_water": {
+      "step": 10,
+      "minimum": 10
+    },
+    "fried_shallots": {
+      "step": 1,
+      "minimum": 1
+    },
+    "eggs": {
+      "step": 1,
+      "minimum": 1
+    },
+    "dashi_powder": {
+      "step": 1,
+      "minimum": 1
+    },
+    "tofu": {
+      "step": 25,
+      "minimum": 25
+    },
+    "wakame": {
+      "step": 0.5,
+      "minimum": 0.5
+    },
+    "green_onions": {
+      "step": 1,
+      "minimum": 1
+    },
+    "udon_portions": {
+      "step": 1,
+      "minimum": 1
+    },
+    "sliced_beef": {
+      "step": 25,
+      "minimum": 25
+    }
+  }
+}

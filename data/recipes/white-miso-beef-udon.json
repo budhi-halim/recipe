@@ -1,0 +1,147 @@
+{
+  "slug": "white-miso-beef-udon",
+  "number": "04",
+  "title": "White Miso Udon with Sliced Beef",
+  "category": "Noodles",
+  "photo": 3,
+  "servings": 6,
+  "prep": "15 min",
+  "cook": "20 min",
+  "description": "Udon in a gentle miso-dashi broth with thin beef slices and sliced green onion.",
+  "origin": "Scaled from the original two-serving miso udon. Use either a quick sear or a gentle poach for the beef, depending on its thickness.",
+  "groups": [
+    "Broth and noodles",
+    "Beef topping",
+    "Optional additions"
+  ],
+  "ingredients": [
+    {
+      "id": "water",
+      "name": "Water",
+      "amount": 2000,
+      "unit": "ml",
+      "group": "Broth and noodles"
+    },
+    {
+      "id": "dashi_powder",
+      "name": "Dashi powder",
+      "amount": 9,
+      "unit": "g",
+      "group": "Broth and noodles",
+      "note": "Adjust to the package's dilution instructions"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 110,
+      "unit": "g",
+      "group": "Broth and noodles"
+    },
+    {
+      "id": "udon_portions",
+      "name": "Udon portions",
+      "amount": 6,
+      "unit": "portion",
+      "group": "Broth and noodles"
+    },
+    {
+      "id": "sliced_beef",
+      "name": "Thinly sliced beef",
+      "amount": 600,
+      "unit": "g",
+      "group": "Beef topping"
+    },
+    {
+      "id": "neutral_oil",
+      "name": "Neutral oil, for searing",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Beef topping"
+    },
+    {
+      "id": "soy_sauce",
+      "name": "Regular soy sauce",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Beef topping"
+    },
+    {
+      "id": "mirin",
+      "name": "Mirin",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Beef topping"
+    },
+    {
+      "id": "ginger",
+      "name": "Grated ginger",
+      "amount": 9,
+      "unit": "g",
+      "group": "Beef topping",
+      "optional": true
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "amount": 6,
+      "unit": "g",
+      "group": "Beef topping",
+      "optional": true
+    },
+    {
+      "id": "tofu",
+      "name": "Tofu, cubed",
+      "amount": 300,
+      "unit": "g",
+      "group": "Optional additions",
+      "optional": true
+    },
+    {
+      "id": "wakame",
+      "name": "Dried wakame",
+      "amount": 9,
+      "unit": "g",
+      "group": "Optional additions",
+      "optional": true
+    },
+    {
+      "id": "green_onions",
+      "name": "Green onions, sliced",
+      "amount": 3,
+      "unit": "stalk",
+      "group": "Optional additions"
+    }
+  ],
+  "rounding": {
+    "dashi_powder": {
+      "step": 0.5,
+      "minimum": 0.5
+    }
+  },
+  "steps": [
+    [
+      "Prepare the broth",
+      "Heat the water with dashi powder to a gentle simmer. Follow the dashi package's instructions for strength."
+    ],
+    [
+      "Cook the beef",
+      "Quickly sear thin beef in the oil, add soy sauce and mirin, and optionally ginger and sugar. Simmer briefly to reduce the mirin's alcoholic edge. Very thin shabu-style slices can instead be poached gently in the broth until cooked."
+    ],
+    [
+      "Cook the udon",
+      "Loosen or cook udon according to the package. Divide among six warmed bowls."
+    ],
+    [
+      "Finish the broth",
+      "Warm optional tofu and wakame in the dashi. Turn off the heat, dissolve miso in a small amount of broth, then stir it back in without boiling."
+    ],
+    [
+      "Assemble",
+      "Pour the miso broth over udon. Top with the beef and green onions. Serve promptly."
+    ]
+  ],
+  "notes": [
+    "Avoid overcooking paper-thin beef.",
+    "Miso should be added off the heat, and the finished broth should remain gently savoury rather than excessively salty."
+  ]
+}

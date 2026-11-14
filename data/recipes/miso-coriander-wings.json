@@ -1,0 +1,167 @@
+{
+  "slug": "miso-coriander-wings",
+  "number": "01",
+  "title": "Crispy Miso–Coriander Chicken Wings",
+  "category": "Chicken",
+  "photo": 0,
+  "servings": 6,
+  "prep": "48 h, mostly inactive",
+  "cook": "8–12 min",
+  "description": "Crisp wings with white miso, toasted coriander, ginger and garlic, accompanied by a hoisin-forward dipping sauce.",
+  "origin": "Scaled threefold from the original 500 g wing batch. The long, staged preparation is intentional.",
+  "groups": [
+    "Chicken wings",
+    "Hoisin dipping sauce"
+  ],
+  "ingredients": [
+    {
+      "id": "chicken_wings",
+      "name": "Bone-in chicken wings",
+      "amount": 1500,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "salt",
+      "name": "Fine salt",
+      "amount": 6,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "white_miso",
+      "name": "White miso paste",
+      "amount": 60,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "coriander_seed",
+      "name": "Toasted and ground coriander seed",
+      "amount": 6,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic, grated",
+      "amount": 18,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger, grated",
+      "amount": 15,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "white_pepper",
+      "name": "Ground white pepper",
+      "amount": 0.75,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "lemongrass",
+      "name": "Lemongrass, finely minced",
+      "amount": 7.5,
+      "unit": "g",
+      "group": "Chicken wings",
+      "optional": true
+    },
+    {
+      "id": "starch",
+      "name": "Potato or corn starch",
+      "amount": 90,
+      "unit": "g",
+      "group": "Chicken wings"
+    },
+    {
+      "id": "hoisin",
+      "name": "Hoisin sauce",
+      "amount": 120,
+      "unit": "g",
+      "group": "Hoisin dipping sauce"
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "amount": 45,
+      "unit": "ml",
+      "group": "Hoisin dipping sauce"
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "amount": 12,
+      "unit": "g",
+      "group": "Hoisin dipping sauce"
+    },
+    {
+      "id": "sesame_oil",
+      "name": "Toasted sesame oil",
+      "amount": 3,
+      "unit": "ml",
+      "group": "Hoisin dipping sauce"
+    },
+    {
+      "id": "rice_vinegar",
+      "name": "Rice vinegar, to taste",
+      "amount": 3,
+      "unit": "ml",
+      "group": "Hoisin dipping sauce",
+      "optional": true
+    }
+  ],
+  "rounding": {
+    "white_pepper": {
+      "step": 0.05,
+      "minimum": 0.05
+    },
+    "lemongrass": {
+      "step": 0.5,
+      "minimum": 0.5
+    },
+    "water": {
+      "step": 5,
+      "minimum": 5
+    },
+    "rice_vinegar": {
+      "step": 0.25,
+      "minimum": 0.25
+    }
+  },
+  "steps": [
+    [
+      "Dry-brine",
+      "Pat the wings dry, coat with salt and refrigerate for approximately 30 hours. Discard any pooled liquid and pat dry again."
+    ],
+    [
+      "Marinate",
+      "Combine the white miso, toasted coriander, garlic, ginger and white pepper. Add lemongrass only if desired. Coat the wings and refrigerate for approximately 12 hours."
+    ],
+    [
+      "Dry the surface",
+      "Wipe off thick clumps of miso so they do not scorch. Place the wings on a rack, uncovered in the refrigerator, for approximately 6 hours."
+    ],
+    [
+      "Coat and fry",
+      "Dust lightly with starch, shaking off excess. Fry in batches at 165–170°C for about 8–12 minutes depending on size, until crisp and the thickest part reaches at least 74°C."
+    ],
+    [
+      "Make the dip",
+      "Gently warm hoisin, water and sugar until smooth. Turn off the heat and add sesame oil. Add rice vinegar only if the dip is too sweet or heavy."
+    ],
+    [
+      "Serve",
+      "Drain on a rack and serve immediately with the hoisin dip."
+    ]
+  ],
+  "notes": [
+    "Hoisin should remain the dominant flavour; no chilli or additional soy sauce is required.",
+    "White miso salinity varies by brand; the original calculation used a provisional 12.2% salt for Miyachan miso.",
+    "Do not let the miso coating char before the chicken has cooked through."
+  ]
+}
