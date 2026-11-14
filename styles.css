@@ -62,3 +62,82 @@ body{background-image:repeating-linear-gradient(112deg,transparent 0,transparent
 :root[data-theme="dark"] .wood-band{filter:brightness(.64)}
 .dish-photo{background-size:cover;background-position:center;background-repeat:no-repeat;position:relative}
 @media(max-width:620px){.brand-icon{width:32px;height:32px}.wood-band{height:7px;min-height:7px}}
+
+/* Material-led redesign: large, clearly visible natural surfaces. */
+:root{
+ --wood:url("./assets/textures/walnut-grain.svg");
+ --fiber:url("./assets/textures/handmade-paper.svg");
+ --botanical:url("./assets/textures/botanical-engraving.svg");
+ --material-ink:#f6eedf;
+}
+.site-header{
+ background:linear-gradient(90deg,rgba(22,28,23,.90),rgba(29,36,27,.86)),var(--wood);
+ background-size:cover,900px auto;
+ border-bottom:3px solid #a88a62;
+ color:#f5eddf;
+}
+.site-header .brand-name,.site-header nav a,.site-header .theme-toggle{color:#f5eddf}
+.site-header .nav-note{color:#cbbda6}
+.site-header .nav-divider{background:#8e8b7c}
+.site-header .theme-toggle{border-color:#a59b83}
+.site-header nav a:hover,.site-header .theme-toggle:hover{color:#e6c69b}
+.intro{
+ position:relative;isolation:isolate;overflow:hidden;
+ min-height:320px;
+ margin:30px 0 43px;
+ padding:clamp(44px,6vw,84px) clamp(26px,6vw,80px);
+ display:flex;align-items:center;
+ background:linear-gradient(110deg,rgba(23,36,28,.94),rgba(32,42,30,.74) 72%,rgba(29,40,29,.52)),var(--wood);
+ background-size:cover,cover;
+ border:1px solid #8f7657;
+ box-shadow:0 14px 35px rgba(34,33,23,.14),inset 0 0 0 6px rgba(222,204,163,.07);
+ color:#f6efe0;
+}
+.intro::after{
+ content:"";position:absolute;right:2%;top:-12%;width:270px;height:360px;
+ background:var(--botanical) center/contain no-repeat;
+ opacity:.38;z-index:-1;pointer-events:none;
+}
+.intro .eyebrow{color:#d6bd98}
+.intro h1{margin:13px 0 0;text-shadow:0 2px 12px rgba(0,0,0,.15)}
+.intro .accent{color:#d5ad76}
+.recipe-card{
+ background:var(--fiber) repeat,var(--surface);
+ background-size:240px 240px;
+ border-color:#b7a68c;
+ box-shadow:0 5px 20px rgba(45,40,29,.08);
+}
+.card-content{background:linear-gradient(160deg,rgba(255,255,255,.16),rgba(143,115,74,.06));}
+.recipe-card .card-bottom{border-top-color:rgba(97,77,50,.27)}
+.recipe-card .card-content h3{color:#332d23}
+.recipe-card .card-content p,.recipe-card .card-bottom{color:#635b50}
+.recipe-card .card-content .eyebrow{color:#8a6541}
+.scaler{
+ background:linear-gradient(110deg,rgba(35,47,34,.91),rgba(43,49,36,.82)),var(--wood);
+ background-size:cover,760px auto;
+ color:#f6eedf;border:1px solid #9c825f;
+ box-shadow:inset 0 0 0 4px rgba(230,211,174,.08);
+}
+.scaler-head button{color:#e3c19b;border-bottom-color:#e3c19b}
+.scaler-controls label>span:first-child,.scaler>p{color:#d4c8b2!important}
+.scaler select,.number-field{background:#f5eee1;color:#282920;border-color:#aa9b83}
+.scaler input{color:#282920}
+:root[data-theme="dark"] .site-header{background:linear-gradient(90deg,rgba(14,22,17,.86),rgba(21,30,23,.84)),var(--wood)}
+:root[data-theme="dark"] .intro{background:linear-gradient(110deg,rgba(13,23,17,.89),rgba(22,32,22,.65)),var(--wood);border-color:#71644d}
+:root[data-theme="dark"] .recipe-card{background:linear-gradient(rgba(24,32,27,.87),rgba(24,32,27,.87)),var(--fiber);border-color:#5e6256}
+:root[data-theme="dark"] .card-content{background:linear-gradient(150deg,rgba(220,209,179,.05),rgba(0,0,0,.08))}
+:root[data-theme="dark"] .recipe-card .card-content h3{color:#f1e9db}
+:root[data-theme="dark"] .recipe-card .card-content p,:root[data-theme="dark"] .recipe-card .card-bottom{color:#c0b8a8}
+:root[data-theme="dark"] .recipe-card .card-content .eyebrow{color:#d4b18c}
+:root[data-theme="dark"] .scaler{background:linear-gradient(110deg,rgba(26,38,29,.9),rgba(36,43,32,.84)),var(--wood);border-color:#7c7057}
+:root[data-theme="dark"] .scaler select,:root[data-theme="dark"] .number-field{background:#e9e0d0;color:#22291f}
+:root[data-theme="dark"] .scaler input{color:#22291f}
+@media(max-width:620px){
+ .intro{min-height:240px;margin:18px 0 31px;padding:40px 25px}
+ .intro::after{width:160px;height:220px;right:-4%;top:3%;opacity:.24}
+ .intro h1{font-size:clamp(70px,18vw,100px)}
+}
+@media print{
+ .site-header,.intro,.scaler{background:white!important;color:#111!important;box-shadow:none}
+ .recipe-card{background:white!important}
+}
